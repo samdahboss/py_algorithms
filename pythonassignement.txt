@@ -1,0 +1,6 @@
+1. PYTHON PROGRAM FOR DISPLAYING THE FIRST 10 FIBONACCI NUMBERS
+2. PYTHON PROGRAM FOR DISPLAYING:
+            *
+        *       *
+    *       *       *
+*       *       *       *
